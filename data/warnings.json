@@ -1,0 +1,519 @@
+{
+  "1395877049121636402": {
+    "1397461692895727669": {
+      "totalWarnings": 4,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "No reason provided",
+          "timestamp": "7/23/2025, 10:35:08 AM",
+          "adminId": "642124900336795650",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"طيز\"",
+          "timestamp": "7/23/2025, 6:14:53 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"كس\"",
+          "timestamp": "7/23/2025, 6:15:41 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"عرص\"",
+          "timestamp": "7/23/2025, 6:16:26 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        }
+      ]
+    },
+    "571661677657980939": {
+      "totalWarnings": 2,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"خول\"",
+          "timestamp": "7/23/2025, 6:08:17 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"متناك\"",
+          "timestamp": "7/23/2025, 6:09:40 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        }
+      ]
+    },
+    "1175439324972580884": {
+      "totalWarnings": 3,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"",
+          "timestamp": "7/23/2025, 6:52:58 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"كس\"",
+          "timestamp": "7/23/2025, 6:54:24 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"بز\"",
+          "timestamp": "7/23/2025, 6:56:42 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        }
+      ]
+    },
+    "642124900336795650": {
+      "totalWarnings": 7,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"fuck\"\nDeleted message: \"fuck\"",
+          "timestamp": "7/26/2025, 10:52:40 AM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"dik\"\nDeleted message: \"dik\"",
+          "timestamp": "7/29/2025, 3:58:54 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"نيك\"\nDeleted message: \"نيكثوث\"",
+          "timestamp": "7/30/2025, 4:01:22 AM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"fuck\"\nDeleted message: \"fuck\"",
+          "timestamp": "7/31/2025, 7:18:20 AM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 5,
+          "reason": "Used blocked word: \"con\"\nDeleted message: \"Successfully deployed global slash commands!\n(node:37) Warning: Supplying \"ephemeral\" for interaction response options is deprecated. Utilize flags instead.\nMute error: DiscordAPIError[10062]: Unknown interaction\nat handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:748:13)\nat process.processTicksAndRejections (node:internal/process/task_queues:105:5)\nat async BurstHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:852:23)\nat async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1293:22)\nat async ChatInputCommandInteraction.reply (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:200:22)\nat async Object.execute (/home/container/commands/mute.js:99:13)\nat async Object.execute (/home/container/events/interactionCreate.js:249:17) {\nrequestBody: { files: [], json: { type: , data: [Object] } },\nrawError: { message: , code:  },\ncode: ,\nstatus: ,\nmethod: ,\nurl: \n}\nError executing mute: DiscordAPIError[10062]: Unknown interaction\nat handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:748:13)\nat process.processTicksAndRejections (node:internal/process/task_queues:105:5)\nat async BurstHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:852:23)\nat async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1293:22)\nat async ChatInputCommandInteraction.reply (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:200:22)\nat async Object.execute (/home/container/commands/mute.js:102:13)\nat async Object.execute (/home/container/events/interactionCreate.js:249:17) {\nrequestBody: { files: [], json: { type: , data: [Object] } },\nrawError: { message: , code:  },\ncode: ,\nstatus: ,\nmethod: ,\nurl: \n}\n--- Uncaught Exception at: uncaughtException error: DiscordAPIError[10062]: Unknown interaction\nat handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:748:13)\nat process.processTicksAndRejections (node:internal/process/task_queues:105:5)\nat async BurstHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:852:23)\nat async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1293:22)\nat async ChatInputCommandInteraction.reply (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:200:22) {\nrequestBody: { files: [], json: { type: , data: [Object] } },\nrawError: { message: , code:  },\ncode: ,\nstatus: ,\nmethod: ,\nurl: \n} ---\"",
+          "timestamp": "8/1/2025, 3:22:34 AM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 6,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كسبب\"",
+          "timestamp": "8/1/2025, 1:21:17 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 7,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس\"",
+          "timestamp": "8/1/2025, 2:20:02 PM",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        }
+      ]
+    },
+    "1032269797389516852": {
+      "totalWarnings": 2,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"",
+          "timestamp": "2025-08-04T23:29:17.165Z",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"خول\"",
+          "timestamp": "2025-08-04T23:29:24.990Z",
+          "adminId": "Automod",
+          "serverId": "1395877049121636402"
+        }
+      ]
+    }
+  },
+  "1317145559319969834": {
+    "642124900336795650": {
+      "totalWarnings": 8,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس\"",
+          "timestamp": "7/30/2025, 3:11:56 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس\"",
+          "timestamp": "7/30/2025, 3:13:22 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"زب\"\nDeleted message: \"زب\"",
+          "timestamp": "7/30/2025, 3:13:25 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"طيز\"\nDeleted message: \"طيز\"",
+          "timestamp": "7/30/2025, 3:13:29 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 5,
+          "reason": "Used blocked word: \"لحس\"\nDeleted message: \"لحس\"",
+          "timestamp": "7/30/2025, 3:13:34 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 6,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس\"",
+          "timestamp": "7/31/2025, 2:21:42 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 7,
+          "reason": "Used blocked word: \"لش\"\nDeleted message: \"معلش ولله دي مشكله في البوت\"",
+          "timestamp": "8/1/2025, 3:30:49 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 8,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"جفكس\"",
+          "timestamp": "8/1/2025, 3:32:55 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1175439324972580884": {
+      "totalWarnings": 21,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"مص\"\nDeleted message: \"تعال مصه\"",
+          "timestamp": "7/30/2025, 3:13:47 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كسم\"",
+          "timestamp": "7/30/2025, 3:13:50 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس\"",
+          "timestamp": "7/30/2025, 3:13:54 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"زب\"\nDeleted message: \"زب\"",
+          "timestamp": "7/30/2025, 3:13:58 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 5,
+          "reason": "Used blocked word: \"متناك\"\nDeleted message: \"متناك\"",
+          "timestamp": "7/30/2025, 3:14:01 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 6,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كسختك\"",
+          "timestamp": "7/30/2025, 3:14:48 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 7,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"جفكس\"",
+          "timestamp": "7/30/2025, 3:14:50 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 8,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كسم البوت يعم\"",
+          "timestamp": "7/30/2025, 3:15:38 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 9,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "7/31/2025, 6:06:51 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 10,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"هعملك ام الجقكس\"",
+          "timestamp": "7/31/2025, 10:35:12 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 11,
+          "reason": "Used blocked word: \"لش\"\nDeleted message: \"وريني الشعر الي فيه بقى كدا <@1367810924056150090>\"",
+          "timestamp": "7/31/2025, 10:41:46 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 12,
+          "reason": "Used blocked word: \"لش\"\nDeleted message: \"وريني الشعر\"",
+          "timestamp": "7/31/2025, 10:42:37 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 13,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:43:20 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 14,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:43:31 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 15,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:44:01 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 16,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:44:11 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 17,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:44:21 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 18,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 2:44:28 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 19,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"النصابين عملوا الجفكس\"",
+          "timestamp": "8/1/2025, 3:06:32 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 20,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"بليندر عندي بيموت انا بعمل الجفكس بالعافيه اصلا\"",
+          "timestamp": "8/1/2025, 3:10:12 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 21,
+          "reason": "Used blocked word: \"del\"\nDeleted message: \"$delete\"",
+          "timestamp": "8/1/2025, 3:12:27 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1125480368938680420": {
+      "totalWarnings": 1,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كس ام مين\"",
+          "timestamp": "7/30/2025, 3:15:29 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1206586402893205554": {
+      "totalWarnings": 2,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"بستري جفكس بس بسكن ثاني ممكن؟\"",
+          "timestamp": "7/31/2025, 6:09:56 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"الجفكس متىى\"",
+          "timestamp": "8/1/2025, 1:38:55 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1390752195447881789": {
+      "totalWarnings": 1,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"يا جماعه أنا فتحت ستور ببيع في حاجات في ماب steal a brain rot و grow a garden مقابل روبوكس و حاجات في مابان تانية\"",
+          "timestamp": "7/31/2025, 6:38:53 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1367810924056150090": {
+      "totalWarnings": 5,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"مقابل جفكسات\"",
+          "timestamp": "7/31/2025, 10:35:41 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كم تبيع لي جفكس\"",
+          "timestamp": "7/31/2025, 10:41:05 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"بكم جفكس تشتري\"",
+          "timestamp": "7/31/2025, 10:41:56 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"كم جفكس\"",
+          "timestamp": "7/31/2025, 10:42:10 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 5,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"تقدر تسوي جفكس بصورة مربعات بس تقدر تخلي boy\"",
+          "timestamp": "7/31/2025, 10:42:58 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1262390853079666718": {
+      "totalWarnings": 7,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"انا كرهت الجفكسات بسبب الجفكس بتاعك يسطا\"",
+          "timestamp": "8/1/2025, 1:35:30 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 2,
+          "reason": "Used blocked word: \"am\"\nDeleted message: \"$rename done\"",
+          "timestamp": "8/1/2025, 1:36:17 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 3,
+          "reason": "Used blocked word: \"داف\"\nDeleted message: \"انت دافع؟\"",
+          "timestamp": "8/1/2025, 1:40:39 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 4,
+          "reason": "Used blocked word: \"لش\"\nDeleted message: \"مانتوس معلش اعمل دا\"",
+          "timestamp": "8/1/2025, 3:09:10 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 5,
+          "reason": "Used blocked word: \"لش\"\nDeleted message: \"معلش\"",
+          "timestamp": "8/1/2025, 3:09:22 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 6,
+          "reason": "Used blocked word: \"داف\"\nDeleted message: \"مهو دافع مستعجل\"",
+          "timestamp": "8/1/2025, 3:10:56 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        },
+        {
+          "warnNumber": 7,
+          "reason": "Used blocked word: \"كس\"\nDeleted message: \"هات القالب دا عشان اعمل جفكس لنفسي بيه\"",
+          "timestamp": "8/1/2025, 3:13:02 PM",
+          "adminId": "Automod",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    },
+    "1245513013310652589": {
+      "totalWarnings": 1,
+      "warnings": [
+        {
+          "warnNumber": 1,
+          "reason": "منشن كتير",
+          "timestamp": "2025-08-01T19:49:14.654Z",
+          "adminId": "642124900336795650",
+          "serverId": "1317145559319969834"
+        }
+      ]
+    }
+  }
+}
